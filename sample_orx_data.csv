@@ -1,0 +1,11 @@
+Event ID,Date,Business Line,Event Type,Gross Loss,Currency,Status
+E1001,2023-01-15,Retail Banking,Internal Fraud,50000,USD,Closed
+E1002,2023-02-10,Commercial Banking,Clients Products & Business Practices,120000,USD,Open
+E1003,2023-03-05,Asset Management,Execution Delivery & Process Management,15000,USD,Closed
+E1004,2023-04-20,Retail Banking,External Fraud,8500,USD,Closed
+E1005,2023-05-12,Investment Banking,Business Disruption & System Failures,250000,USD,Open
+E1006,2023-06-18,Retail Banking,Internal Fraud,3000,USD,Closed
+E1007,2023-07-22,Commercial Banking,Employment Practices & Workplace Safety,45000,USD,Closed
+E1008,2023-08-30,Asset Management,Clients Products & Business Practices,75000,USD,Open
+E1009,2023-09-14,Retail Banking,Damage to Physical Assets,12000,USD,Closed
+E1010,2023-10-05,Investment Banking,Execution Delivery & Process Management,180000,USD,Open
